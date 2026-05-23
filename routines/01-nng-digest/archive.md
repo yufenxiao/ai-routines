@@ -11,3 +11,4 @@
 | 2026-05-23 | 2025-06-11 | AI／UI／UX 設計實作 | [How Service Design Will Evolve with AI Agents](https://www.nngroup.com/articles/service-design-evolve-ai-agents/) | 當 AI 代理人成為服務生態系的新行動者，傳統服務設計的三大支柱——視覺美觀、使用流暢、人工流程——恐怕都要重新找到定位。 |
 | 2026-05-23 | 2024-03-22 | AI／UI／UX 設計實作 | [Generative UI and Outcome-Oriented Design](https://www.nngroup.com/articles/generative-ui/) | 當 AI 能即時生成符合個人情境的介面，設計師的工作重心必須從「畫出哪些元件」轉移到「定義 AI 能在哪些邊界內操作」——結果導向設計不是趨勢，是必然。 |
 | 2026-05-23 | 2025-05-09 | 設計師職涯 | [Why I'm Not Worried About My UX Job in the Era of AI](https://www.nngroup.com/articles/ux-job-with-ai/) | 工具一直在換，UX 的核心始終不變——定義問題、問對問題、判斷輸出，這三件事 AI 搶不走。 |
+| 2026-05-23 | 2026-03-17 | AI／UI／UX 設計實作 | [GenUI In Real Life: Buttons and Checkboxes](https://www.nngroup.com/articles/genui-buttons-and-checkboxes/) | GenUI 從理論走進產品，AI 聊天介面已能自主決定何時生成按鈕與核取方塊——設計師的新任務是定義 AI 能動用哪些元件、在什麼條件下動用。 |
