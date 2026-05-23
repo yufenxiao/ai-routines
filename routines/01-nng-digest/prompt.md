@@ -38,12 +38,14 @@
 6. 把本次的文章資訊**附加一行到 `archive.md` 表格底部**（欄位順序照該檔案的表頭），然後執行：
 
    ```
+   git checkout main
+   git pull origin main
    git add routines/01-nng-digest/archive.md
    git commit -m "add: NN/g 導讀 YYYY-MM-DD"
    git push origin main
    ```
 
-   只動 `archive.md`，不要動其他檔案。
+   **不要建立 `claude/` 開頭的新分支**，直接 commit 到 main。只動 `archive.md`，不要動其他檔案。
 
 7. 導讀本體直接作為本次 session 的**最終輸出訊息**，不需要寫成檔案。
 
