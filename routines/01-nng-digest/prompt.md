@@ -35,7 +35,12 @@
 
 5. 依照 `routines/01-nng-digest/style.md` 的結構模板，用繁體中文寫導讀。
 
-6. 把本次的文章資訊**附加一行到 `archive.md` 表格底部**（欄位順序照該檔案的表頭），然後執行：
+6. 把本次的文章資訊**附加一行到 `archive.md` 表格底部**，欄位順序照該檔案表頭。其中：
+   - **收錄日**：routine 執行當天（YYYY-MM-DD）
+   - **原文發布日**：從 NN/g 文章頁面或搜尋結果抓出文章的 publication date（YYYY-MM-DD）。NN/g 文章頁面通常在標題下方顯示日期；若 WebFetch 被擋，從 WebSearch 結果或 URL 的年份線索推斷。若真的找不到精確日期，填入 `YYYY-MM`（只到月）或 `unknown`
+   - 其他欄位照舊
+
+   然後執行：
 
    ```
    git checkout main
