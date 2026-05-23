@@ -56,6 +56,7 @@
 7. 用 Slack connector 把**完整導讀內容**發到頻道 ID `C0B5AGTQHU7`（這是 #nng-digest 的 ID，傳 ID 比傳名稱快，可以跳過頻道查找步驟）。注意：
    - Slack 用的是 mrkdwn 不是標準 markdown，連結語法、粗體寫法不同；交給 connector 自動轉換即可
    - 如果單則訊息超過 Slack 字數上限（約 3000 字元），拆成多則連續發送
+   - 訊息開頭加上 `<@U0B5PTWBBM4>` 把我 tag 進來，確保推播觸發。
 
 8. 導讀本體同時作為本次 session 的最終輸出訊息（保留這份在 claude.ai/code 也能讀）。
 
