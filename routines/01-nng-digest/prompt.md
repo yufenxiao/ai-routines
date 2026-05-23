@@ -1,11 +1,3 @@
-# 排程任務 prompt：每日 NN/g 中文導讀
-
-1. 這份檔案分隔線之間的內容貼到 [claude.ai/code/routines](https://claude.ai/code/routines) 的 Prompt 欄位。改了之後別忘了同步更新 routine UI 上的 prompt。
-
-2. **歷史導讀紀錄請查閱同層的 `archive.md`。**
-
----
-
 你的任務：每日 NN/g UX 中文導讀
 
 ## 啟動先讀
@@ -53,10 +45,25 @@
 
    **不要建立 `claude/` 開頭的新分支**，直接 commit 到 main。只動 `archive.md`，不要動其他檔案。
 
-7. 用 Slack connector 把**完整導讀內容**發到頻道 ID `C0B5AGTQHU7`（這是 #nng-digest 的 ID，傳 ID 比傳名稱快，可以跳過頻道查找步驟）。注意：
-   - Slack 用的是 mrkdwn 不是標準 markdown，連結語法、粗體寫法不同；交給 connector 自動轉換即可
-   - 如果單則訊息超過 Slack 字數上限（約 3000 字元），拆成多則連續發送
-   - 訊息開頭加上 `<@U0B5PTWBBM4>` 把我 tag 進來，確保推播觸發。
+7. 完成 archive 更新後，把導讀內容**轉成 Telegram HTML 格式**，然後用 `curl` 推到你的 Telegram：
+
+   **格式轉換規則**：
+   - `# 標題` / `## 標題` → `<b>標題</b>` 後面換行
+   - `**粗體**` → `<b>粗體</b>`
+   - `[文字](URL)` → `<a href="URL">文字</a>`
+   - `- 項目` → `• 項目`
+   - 移除 `---` 分隔線（HTML 沒對應）
+   - 表情符號（📬 等）保留
+
+   **執行指令**：
+
+   ```bash
+   curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+     --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+     --data-urlencode "text=<這裡塞轉好的 HTML 訊息>" \
+     -d "parse_mode=HTML" \
+     -d "disable_web_page_preview=false"
+   ```
 
 8. 導讀本體同時作為本次 session 的最終輸出訊息（保留這份在 claude.ai/code 也能讀）。
 
