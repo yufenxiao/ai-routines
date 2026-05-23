@@ -13,3 +13,4 @@
 | 2026-05-23 | 2025-05-09 | 設計師職涯 | [Why I'm Not Worried About My UX Job in the Era of AI](https://www.nngroup.com/articles/ux-job-with-ai/) | 工具一直在換，UX 的核心始終不變——定義問題、問對問題、判斷輸出，這三件事 AI 搶不走。 |
 | 2026-05-23 | 2026-03-17 | AI／UI／UX 設計實作 | [GenUI In Real Life: Buttons and Checkboxes](https://www.nngroup.com/articles/genui-buttons-and-checkboxes/) | GenUI 從理論走進產品，AI 聊天介面已能自主決定何時生成按鈕與核取方塊——設計師的新任務是定義 AI 能動用哪些元件、在什麼條件下動用。 |
 | 2026-05-23 | 2025-01-13 | UX 未來趨勢 | [The UX Reckoning: Prepare for 2025 and Beyond](https://www.nngroup.com/articles/ux-reset-2025/) | 面對 UX 職場寒冬與 AI 浪潮，NN/g 開出三帖藥方：重新評估戰術、用 AI 交付真實使用者價值、以及把時間投在培養 AI 難以複製的人類判斷力。 |
+| 2026-05-23 | 2026-03-27 | AI／UI／UX 設計實作 | [GenUI vs. Vibe Coding: Who's Designing?](https://www.nngroup.com/articles/genui-vs-vibe/) | GenUI 和 Vibe Coding 都是「AI 幫你做介面」，但真正的差異在於設計決策是 AI 自己判斷的，還是使用者主動要求的——這個起點決定了設計責任的歸屬。 |
