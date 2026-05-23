@@ -53,7 +53,11 @@
 
    **不要建立 `claude/` 開頭的新分支**，直接 commit 到 main。只動 `archive.md`，不要動其他檔案。
 
-7. 導讀本體直接作為本次 session 的**最終輸出訊息**，不需要寫成檔案。
+7. 用 Slack connector 把**完整導讀內容**發到 `#nng-digest` 頻道。注意：
+   - Slack 用的是 mrkdwn 不是標準 markdown，連結語法、粗體寫法不同；交給 connector 自動轉換即可，你不用手動改
+   - 如果單則訊息超過 Slack 字數上限（約 3000 字元），拆成多則連續發送
+
+8. 導讀本體同時作為本次 session 的最終輸出訊息（保留這份在 claude.ai/code 也能讀）。
 
 ## 成功標準
 
