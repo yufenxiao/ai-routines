@@ -16,3 +16,4 @@
 | 2026-05-23 | 2026-03-27 | AI／UI／UX 設計實作 | [GenUI vs. Vibe Coding: Who's Designing?](https://www.nngroup.com/articles/genui-vs-vibe/) | GenUI 和 Vibe Coding 都是「AI 幫你做介面」，但真正的差異在於設計決策是 AI 自己判斷的，還是使用者主動要求的——這個起點決定了設計責任的歸屬。 |
 | 2026-05-23 | 2026-03-18 | 設計師職涯 | [The Return of the UX Generalist](https://www.nngroup.com/articles/return-ux-generalist/) | AI 的「技能加速」效果正在翻轉過去十年「要深耕才有價值」的職涯邏輯——廣度加上判斷力，才是下一代設計角色的核心競爭力。 |
 | 2026-05-23 | 2025-09-24 | UX 未來趨勢 | [UX Leads Adoption of AI Chat](https://www.nngroup.com/articles/ux-ai-adoption/) | UX 設計師是全美 AI 聊天工具採用率最高的職業群之一，但近半數核心任務仍因「需要與真人互動」而難以被 AI 取代——這個缺口，才是設計師現在最值得鞏固的護城河。 |
+| 2026-05-23 | 2025-09-19 | AI／UI／UX 設計實作 | [Prioritize Smarts over Sentience to Increase Trust with AI](https://www.nngroup.com/articles/smarts-emotion-trust-ai/) | 在工作導向情境中，使用者更信任「看起來聰明」的 AI 勝過「看起來有感情」的 AI——把 AI 擬人化不只沒用，還會反過來侵蝕信任。 |
