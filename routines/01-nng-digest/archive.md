@@ -11,3 +11,4 @@
 | 2026-05-28 | 2025-06-06 | 設計師職涯／AI | [The Future-Proof Designer](https://www.nngroup.com/articles/future-proof-designer/) | 設計師真正的護城河不是工具技能，而是 AI 難以複製的「判斷力」——戰略思維、說故事的能力、以及對人類動機的深度理解。 |
 | 2026-05-29 | 2025-10-01 | AI／UI／UX 設計實作 | [Generative UI and Outcome-Oriented Design](https://www.nngroup.com/articles/generative-ui/) | 介面設計的終點不再是一個固定畫面——當 AI 能即時為每個人生成專屬 UI，設計師的工作從「畫介面」轉型為「為 AI 定義邊界與目標」。 |
 | 2026-05-30 | 2026-03-18 | UX 未來趨勢 | [UX Is Dead, Long Live UX](https://www.nngroup.com/articles/long-live-ux/) | 介面設計正在被 AI 和設計系統商品化，UX 的下一個疆域是跨越數個月、多個管道的完整顧客旅程編排。 |
+| 2026-05-31 | 2025-03-28 | 設計師職涯／AI | [The Return of the UX Generalist](https://www.nngroup.com/articles/return-ux-generalist/) | AI 把「全能型設計師」從過時標籤變成搶手資產——多年來鼓勵你深度專精的市場邏輯，正在被 AI 悄悄翻盤。 |
