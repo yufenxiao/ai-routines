@@ -12,3 +12,4 @@
 | 2026-05-29 | 2025-10-01 | AI／UI／UX 設計實作 | [Generative UI and Outcome-Oriented Design](https://www.nngroup.com/articles/generative-ui/) | 介面設計的終點不再是一個固定畫面——當 AI 能即時為每個人生成專屬 UI，設計師的工作從「畫介面」轉型為「為 AI 定義邊界與目標」。 |
 | 2026-05-30 | 2026-03-18 | UX 未來趨勢 | [UX Is Dead, Long Live UX](https://www.nngroup.com/articles/long-live-ux/) | 介面設計正在被 AI 和設計系統商品化，UX 的下一個疆域是跨越數個月、多個管道的完整顧客旅程編排。 |
 | 2026-05-31 | 2025-03-28 | 設計師職涯／AI | [The Return of the UX Generalist](https://www.nngroup.com/articles/return-ux-generalist/) | AI 把「全能型設計師」從過時標籤變成搶手資產——多年來鼓勵你深度專精的市場邏輯，正在被 AI 悄悄翻盤。 |
+| 2026-06-01 | 2025-06-11 | AI／UI／UX 設計實作 | [How Service Design Will Evolve with AI Agents](https://www.nngroup.com/articles/service-design-evolve-ai-agents/) | 當 AI 代理人開始代替人類跟服務供應商「談判」，服務設計師得重新想清楚：你的服務到底是為人設計的，還是為 AI 設計的？ |
