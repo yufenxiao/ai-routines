@@ -14,3 +14,4 @@
 | 2026-05-31 | 2025-03-28 | 設計師職涯／AI | [The Return of the UX Generalist](https://www.nngroup.com/articles/return-ux-generalist/) | AI 把「全能型設計師」從過時標籤變成搶手資產——多年來鼓勵你深度專精的市場邏輯，正在被 AI 悄悄翻盤。 |
 | 2026-06-01 | 2025-06-11 | AI／UI／UX 設計實作 | [How Service Design Will Evolve with AI Agents](https://www.nngroup.com/articles/service-design-evolve-ai-agents/) | 當 AI 代理人開始代替人類跟服務供應商「談判」，服務設計師得重新想清楚：你的服務到底是為人設計的，還是為 AI 設計的？ |
 | 2026-06-02 | 2026-04-10 | UX 未來趨勢 | [Handmade Designs: The New Trust Signal](https://www.nngroup.com/articles/handmade-designs/) | 當 AI 讓「精緻感」瞬間失去稀缺性，手作感正在成為新的信任訊號——使用者評估設計的標準，正悄悄從「看起來好不好看」轉移到「背後有沒有人在負責」。 |
+| 2026-06-03 | 2026-03-18 | 設計師職涯／AI | [Redefine Your Design Skills to Prepare for AI](https://www.nngroup.com/articles/prepare-for-ai/) | AI 正在讓設計師從「執行者」轉型為「定義者」——你的護城河不是快，而是能判斷 AI 輸出的好壞、並替它定義邊界。 |
