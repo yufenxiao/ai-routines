@@ -17,3 +17,4 @@
 | 2026-06-03 | 2026-03-18 | 設計師職涯／AI | [Redefine Your Design Skills to Prepare for AI](https://www.nngroup.com/articles/prepare-for-ai/) | AI 正在讓設計師從「執行者」轉型為「定義者」——你的護城河不是快，而是能判斷 AI 輸出的好壞、並替它定義邊界。 |
 | 2026-06-04 | 2026-01-21 | AI／UI／UX 設計實作 | [Accelerating Research with AI](https://www.nngroup.com/articles/research-with-ai/) | AI 在 UX 研究工作流程中是「加速器」而非「替代者」——它最擅長規劃與初步分析，但核心判斷、深度洞察與品質把關，依然必須由研究者自己掌舵。 |
 | 2026-06-05 | 2025-10-10 | UX 未來趨勢 | [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/) | iOS 26 的 Liquid Glass 讓 Apple 的介面從業界標竿變成反面教材——視覺奇觀凌駕可用性時，就連最強設計團隊也會讓文字消失在背景裡。 |
+| 2026-06-06 | 2025-05-09 | 設計師職涯／AI | [AI Design Tools Are Marginally Better: Status Update](https://www.nngroup.com/articles/ai-design-tools-update-2/) | AI 設計工具在 2025 年確實有進步，但「窄範圍 AI」才是真正實用的方向——那些想一口氣包辦所有設計工作的工具，至今仍然令人失望。 |
