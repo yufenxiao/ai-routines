@@ -19,3 +19,4 @@
 | 2026-06-05 | 2025-10-10 | UX 未來趨勢 | [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/) | iOS 26 的 Liquid Glass 讓 Apple 的介面從業界標竿變成反面教材——視覺奇觀凌駕可用性時，就連最強設計團隊也會讓文字消失在背景裡。 |
 | 2026-06-06 | 2025-05-09 | 設計師職涯／AI | [AI Design Tools Are Marginally Better: Status Update](https://www.nngroup.com/articles/ai-design-tools-update-2/) | AI 設計工具在 2025 年確實有進步，但「窄範圍 AI」才是真正實用的方向——那些想一口氣包辦所有設計工作的工具，至今仍然令人失望。 |
 | 2026-06-07 | 2026-03-27 | AI／UI／UX 設計實作 | [GenUI vs. Vibe Coding: Who's Designing?](https://www.nngroup.com/articles/genui-vs-vibe/) | GenUI 是 AI 主動決定生成介面，Vibe Coding 是人主動要求 AI 建造介面——這道分野決定了你在新世界裡是「設計決策者」還是「需求發包者」。 |
+| 2026-06-08 | 2025-09-24 | UX 未來趨勢 | [UX Leads Adoption of AI Chat](https://www.nngroup.com/articles/ux-ai-adoption/) | UX 設計師佔美國勞動力不到 0.01%，卻貢獻了 Claude 全部對話的 7.5%——資料說話，我們這個族群已經是全美最積極擁抱 AI 聊天工具的職業群之一。 |
