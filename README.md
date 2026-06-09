@@ -11,7 +11,7 @@ ai-routines/
 ├── style/                    ← 全局風格規範
 │   └── language-tone.md      ← 語言與排版
 └── routines/                 ← 每個 routine 一個資料夾
-    └── 01-nng-digest/
+    └── 01-ux-digest/
         ├── prompt.md         ← 貼到 routine UI 的 prompt
         ├── style.md          ← 這個 routine 特有的風格
         └── archive.md        ← 歷史導讀紀錄（routine 自動維護）
@@ -23,7 +23,7 @@ ai-routines/
 
 | 編號 | 名稱 | 觸發 | 用途 |
 |---|---|---|---|
-| 01 | nng-digest | 每日排程 | 抓一篇 NN/g UX 文章寫成繁體中文導讀 |
+| 01 | ux-digest | 每日排程 | 抓一篇 NN/g UX 文章寫成繁體中文導讀 |
 
 ## 新增 routine 的流程
 
