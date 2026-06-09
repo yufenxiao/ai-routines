@@ -21,3 +21,4 @@
 | 2026-06-07 | 2026-03-27 | AI／UI／UX 設計實作 | [GenUI vs. Vibe Coding: Who's Designing?](https://www.nngroup.com/articles/genui-vs-vibe/) | GenUI 是 AI 主動決定生成介面，Vibe Coding 是人主動要求 AI 建造介面——這道分野決定了你在新世界裡是「設計決策者」還是「需求發包者」。 |
 | 2026-06-08 | 2025-09-24 | UX 未來趨勢 | [UX Leads Adoption of AI Chat](https://www.nngroup.com/articles/ux-ai-adoption/) | UX 設計師佔美國勞動力不到 0.01%，卻貢獻了 Claude 全部對話的 7.5%——資料說話，我們這個族群已經是全美最積極擁抱 AI 聊天工具的職業群之一。 |
 | 2026-06-09 | 2026-06-06 | 設計師職涯／AI | [The Four Design Jobs AI Created (So Far)](https://www.nngroup.com/articles/design-jobs-ai-created/) | 「AI 設計師」不是一個職位，而是至少四種截然不同的工作——搞清楚你在做哪一種，才能知道你下一步該學什麼。 |
+| 2026-06-09 | 2026-04-15 | AI／人機互動 | [Building Trust in the AI Era with Privacy-Led UX](https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/) | 隱私設計不是法規作業——它是 AI 個人化能否真正運作的前提條件。 |
