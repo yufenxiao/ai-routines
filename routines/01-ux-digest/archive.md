@@ -24,3 +24,4 @@
 | 2026-06-09 | 2026-04-15 | AI／人機互動 | [Building Trust in the AI Era with Privacy-Led UX](https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/) | 隱私設計不是法規作業——它是 AI 個人化能否真正運作的前提條件。 |
 | 2026-06-10 | 2026-03-13 | UX 研究方法 | [The Methodological Problems Hiding in Your Research Tools](https://www.nngroup.com/articles/research-tool-problems/) | UX 研究工具的方法論漏洞由來已久，而 AI 的加入讓這個問題從「小錯誤」升級成「信心滿滿的大型廢研究」。 |
 | 2026-06-11 | 2026-04 | 設計師職涯／AI | [Becoming an AI-native designer](https://uxdesign.cc/becoming-an-ai-native-designer-828365b71109) | AI 能把你寫得出來的知識學走，但那些你說不清楚的設計直覺才是真正的護城河——AI 原生設計師的功課，是學會把這份默會知識轉換成 AI 能執行的語言。 |
+| 2026-06-12 | 2025-06-20 | AI／UX 研究議程 | [A Research Agenda for Generative AI in UX](https://www.nngroup.com/articles/genai-ux-research-agenda/) | 我們正在設計 AI 產品，但「什麼是好的 AI 使用體驗」本身還沒有研究支撐——NN/G 這份議程是在正式承認：有多少問題根本還沒被問到。 |
