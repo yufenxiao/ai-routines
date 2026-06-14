@@ -25,3 +25,4 @@
 | 2026-06-10 | 2026-03-13 | UX 研究方法 | [The Methodological Problems Hiding in Your Research Tools](https://www.nngroup.com/articles/research-tool-problems/) | UX 研究工具的方法論漏洞由來已久，而 AI 的加入讓這個問題從「小錯誤」升級成「信心滿滿的大型廢研究」。 |
 | 2026-06-11 | 2026-04 | 設計師職涯／AI | [Becoming an AI-native designer](https://uxdesign.cc/becoming-an-ai-native-designer-828365b71109) | AI 能把你寫得出來的知識學走，但那些你說不清楚的設計直覺才是真正的護城河——AI 原生設計師的功課，是學會把這份默會知識轉換成 AI 能執行的語言。 |
 | 2026-06-12 | 2025-06-20 | AI／UX 研究議程 | [A Research Agenda for Generative AI in UX](https://www.nngroup.com/articles/genai-ux-research-agenda/) | 我們正在設計 AI 產品，但「什麼是好的 AI 使用體驗」本身還沒有研究支撐——NN/G 這份議程是在正式承認：有多少問題根本還沒被問到。 |
+| 2026-06-14 | 2025-07-03 | AI／人機互動 | [Don't Let Hype About AI Agents Get Ahead of Reality](https://www.technologyreview.com/2025/07/03/1119545/dont-let-hype-about-ai-agents-get-ahead-of-reality/) | AI 代理人的炒作正在超越現實——從協定的語義缺口到控制權弔詭，在治理追上來之前衝刺部署，只會讓這個本來很有潛力的技術提前失去信任。 |
