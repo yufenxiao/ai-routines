@@ -27,3 +27,4 @@
 | 2026-06-12 | 2025-06-20 | AI／UX 研究議程 | [A Research Agenda for Generative AI in UX](https://www.nngroup.com/articles/genai-ux-research-agenda/) | 我們正在設計 AI 產品，但「什麼是好的 AI 使用體驗」本身還沒有研究支撐——NN/G 這份議程是在正式承認：有多少問題根本還沒被問到。 |
 | 2026-06-14 | 2025-07-03 | AI／人機互動 | [Don't Let Hype About AI Agents Get Ahead of Reality](https://www.technologyreview.com/2025/07/03/1119545/dont-let-hype-about-ai-agents-get-ahead-of-reality/) | AI 代理人的炒作正在超越現實——從協定的語義缺口到控制權弔詭，在治理追上來之前衝刺部署，只會讓這個本來很有潛力的技術提前失去信任。 |
 | 2026-06-15 | 2026-06-05 | UX 原理／行為經濟學 | [The Hidden Why: Behavioral Economics for UX](https://www.nngroup.com/articles/behavioral-economics-for-ux/) | UX 設計長期只問「使用者能不能完成任務」，行為經濟學幫你問到更深的那一層：「他們明明想做，為什麼還是沒做？」 |
+| 2026-06-16 | 2026-04 | 設計師職涯／AI | [Designers finally have a say in the product they design](https://uxdesign.cc/designers-finally-have-a-say-in-the-product-they-design-396c999e1227) | AI 沒有教設計師寫程式——它只是移除了讓設計師長期被排除在產品實作決策之外的那道組織藉口。 |
