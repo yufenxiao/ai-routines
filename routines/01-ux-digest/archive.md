@@ -29,3 +29,4 @@
 | 2026-06-15 | 2026-06-05 | UX 原理／行為經濟學 | [The Hidden Why: Behavioral Economics for UX](https://www.nngroup.com/articles/behavioral-economics-for-ux/) | UX 設計長期只問「使用者能不能完成任務」，行為經濟學幫你問到更深的那一層：「他們明明想做，為什麼還是沒做？」 |
 | 2026-06-16 | 2026-04 | 設計師職涯／AI | [Designers finally have a say in the product they design](https://uxdesign.cc/designers-finally-have-a-say-in-the-product-they-design-396c999e1227) | AI 沒有教設計師寫程式——它只是移除了讓設計師長期被排除在產品實作決策之外的那道組織藉口。 |
 | 2026-06-17 | 2026-01-09 | AI／UX 設計實作 | [Humanizing AI Is a Trap](https://www.nngroup.com/articles/humanizing-ai/) | 讓 AI 扮演「朋友」是設計師替組織挖的坑——人格化設計不僅不能讓使用者更信任 AI，反而讓 AI 變得更不可靠、更難被正確使用。 |
+| 2026-06-18 | 2026-06 | UX 趨勢／設計思考 | [Designing for Composability: Rethinking UX Design Beyond the Application Boundary](https://www.uxmatters.com/mt/archives/2026/06/designing-for-composability-rethinking-ux-design-beyond-the-application-boundary.php) | 當 AI 代理人把多個應用的功能串接成一段體驗，設計師的工作從「設計一條旅程」轉型為確保每個元件離開原本脈絡後，依然能夠自己說清楚自己是什麼。 |
