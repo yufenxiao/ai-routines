@@ -36,3 +36,4 @@
 | 2026-06-22 | 2025-09-24 | AI／UX 信任設計 | [Prioritize Smarts over Sentience to Increase Trust with AI](https://www.nngroup.com/articles/smarts-emotion-trust-ai/) | 讓使用者信任 AI 的關鍵不是讓它「有溫度」，而是讓它「看起來很會推理」——AI 裝感情不只沒用，研究顯示還會讓它在事實任務上更不可靠。 |
 | 2026-06-23 | 2026-01-16 | UX 趨勢／職涯 | [Why the UX Job Market Is Changing in 2026 (and Most Designers Aren't Ready)](https://uxplanet.org/ux-job-market-2026-designers-not-ready-df2c1073d5f2) | 2026 年的 UX 招募邏輯已經換了一套語言——雇主問的不再是「這個設計師夠不夠厲害」，而是「在需求不清楚的時候，這個人能不能被信任？」 |
 | 2026-06-24 | 2026-03-16 | AI 趨勢／人機互動 | [Nurturing Agentic AI Beyond the Toddler Stage](https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/) | AI 代理人已跨入「學步期」——它開始自己走路、自己做決定，但它摔的那一跤，現在可能是企業資安事件，不再只是個無傷大雅的失誤。 |
+| 2026-06-25 | 2026-02-20 | UX 研究方法 | [The Recommendation-Adoption Score](https://www.nngroup.com/articles/recommendation-adoption-score/) | 研究做得再多，如果建議沒有落地成產品改變，就只是「輸出」而不是「成果」——RAS 是那把尺，讓你看清楚自己的研究價值到底有多少真的抵達了使用者。 |
