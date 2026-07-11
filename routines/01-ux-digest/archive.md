@@ -43,3 +43,4 @@
 | 2026-07-08 | 2025-09-24 | UX 趨勢／技能轉型 | [7 UX Skills that will be DEAD by 2026: AI will replace them](https://uxplanet.org/7-ux-skills-that-will-be-dead-by-2026-ai-will-replace-them-3ab33ba9a7a8) | 不是設計師變弱了，而是整條生產鏈的速度標準被 AI 重新設定——那些曾經定義 UX 這個職業的技能，正在被更快、更貼近商業結果的新工作方式取代。 |
 | 2026-07-09 | 2026-06-09 | AI 趨勢／人機互動 | [Learning to Lead in a Hybrid Human-AI Enterprise](https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/) | 當 AI 代理人開始接手企業內部的實際工作，領導者要學的不是「怎麼用工具」，而是「怎麼帶一支一半是人、一半是 AI 的團隊」。 |
 | 2026-07-10 | 2026-07-03 | UX 研究方法／彙報策略 | [Stop Reporting UX Activity and Report Business Outcomes](https://www.nngroup.com/articles/reporting-ux-business-outcomes/) | UX 團隊在預算會議上輸掉的原因，往往不是工作沒價值，而是彙報的方式錯了——你講的是「做了什麼」，主管想聽的是「改變了什麼」。 |
+| 2026-07-11 | 2026-07 | 設計師職涯／AI | [The Crisis of the What](https://uxdesign.cc/the-crisis-of-the-what-d29135a8be59) | AI 先拿走了設計師「怎麼做」的執行工作，現在它開始伸手進「做什麼、為誰做」的判斷領域——作者說，這場危機根本不是 AI 的危機，是設計師自己的。 |
