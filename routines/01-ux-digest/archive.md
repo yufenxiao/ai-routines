@@ -44,3 +44,4 @@
 | 2026-07-09 | 2026-06-09 | AI 趨勢／人機互動 | [Learning to Lead in a Hybrid Human-AI Enterprise](https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/) | 當 AI 代理人開始接手企業內部的實際工作，領導者要學的不是「怎麼用工具」，而是「怎麼帶一支一半是人、一半是 AI 的團隊」。 |
 | 2026-07-10 | 2026-07-03 | UX 研究方法／彙報策略 | [Stop Reporting UX Activity and Report Business Outcomes](https://www.nngroup.com/articles/reporting-ux-business-outcomes/) | UX 團隊在預算會議上輸掉的原因，往往不是工作沒價值，而是彙報的方式錯了——你講的是「做了什麼」，主管想聽的是「改變了什麼」。 |
 | 2026-07-11 | 2026-07 | 設計師職涯／AI | [The Crisis of the What](https://uxdesign.cc/the-crisis-of-the-what-d29135a8be59) | AI 先拿走了設計師「怎麼做」的執行工作，現在它開始伸手進「做什麼、為誰做」的判斷領域——作者說，這場危機根本不是 AI 的危機，是設計師自己的。 |
+| 2026-07-12 | 2026-04-03 | AI／UX 原則 | [A Concrete Definition of an AI Agent](https://www.nngroup.com/articles/definition-ai-agent/) | 「Agent」這個詞已經被行銷、業務、工程各說各話用到失去意義，NN/G 提出一個不綁定技術、只看行為模式的具體定義，讓設計師終於有個可以判斷「這是不是真的 AI 代理人」的標準。 |
