@@ -49,3 +49,4 @@
 | 2026-07-14 | 2026-05-26 | AI 趨勢／組織設計 | [Rethinking Organizational Design in the Age of Agentic AI](https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/) | 多數企業都想導入代理式 AI，但真正卡住轉型的不是技術本身，而是整個組織架構、角色分工與管理模式都還沒準備好跟著一起改變。 |
 | 2026-07-15 | 2026-06-12 | AI／UX 設計方法 | [The Core Skill of Design in the AI Era: Critique](https://www.nngroup.com/articles/ai-era-critique/) | 當 AI 系統天生「不可預測」，設計師的價值不再是寫出精準規格，而是定義出一套能拿來評鑑 AI 輸出好壞的標準。 |
 | 2026-07-16 | 2026-07 | UX 設計實作／AI 代理介面 | [The Interface Has Left the Building](https://uxdesign.cc/the-interface-has-left-the-building-8fdb558d33a9) | 當 AI 能直接把任務做完，介面設計最激進的下一步不是聊天、不是語音——而是介面本身徹底消失。 |
+| 2026-07-17 | 2025-09-19 | AI／UX 設計實作 | [AI as a UX Assistant](https://www.nngroup.com/articles/ai-roles-ux/) | UX 專業者早就不是在問「該不該用 AI」，而是把生成式 AI 拆成 4 種具體角色天天在用——真正的問題只剩「你把它放對位置了嗎」。 |
