@@ -51,3 +51,4 @@
 | 2026-07-16 | 2026-07 | UX 設計實作／AI 代理介面 | [The Interface Has Left the Building](https://uxdesign.cc/the-interface-has-left-the-building-8fdb558d33a9) | 當 AI 能直接把任務做完，介面設計最激進的下一步不是聊天、不是語音——而是介面本身徹底消失。 |
 | 2026-07-17 | 2025-09-19 | AI／UX 設計實作 | [AI as a UX Assistant](https://www.nngroup.com/articles/ai-roles-ux/) | UX 專業者早就不是在問「該不該用 AI」，而是把生成式 AI 拆成 4 種具體角色天天在用——真正的問題只剩「你把它放對位置了嗎」。 |
 | 2026-07-18 | 2026-06 | UX 趨勢／設計實作 | [I've Watched 10 UI Trends Rise and Die. Most Designers Still Can't Name Half of Them.](https://uxplanet.org/ui-design-styles-explained-670cfabdf430) | UI 潮流永遠在生生滅滅，但真正拉開設計師差距的，從來不是「認不認得出」某個風格的長相，而是懂不懂它背後在解決什麼問題、適合套用在哪一種產品情境。 |
+| 2026-07-19 | 2026-06-29 | AI 趨勢／人機互動 | [AI Agents Are Not Your "Coworkers"](https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/) | 把 AI 代理人包裝成「同事」，不會讓使用者更信任它，只會讓使用者更快把該負的責任交出去，連帶把原本該做的判斷也一起放掉。 |
