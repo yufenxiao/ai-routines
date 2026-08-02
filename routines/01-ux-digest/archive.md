@@ -65,3 +65,4 @@
 | 2026-07-30 | 2026-07-17 | UX 原理／表單設計 | [Does Your Form Really Need a Dropdown List?](https://www.nngroup.com/articles/dropdown-list/) | 下拉選單看起來乾淨又省空間，但它把選項藏起來的代價，往往比你以為的還要高——大多數時候，你的表單根本不需要它。 |
 | 2026-07-31 | 2026-07 | AI／UX 設計實作 | [AX Is Just the Orchestration Layer](https://uxdesign.cc/ax-is-just-the-orchestration-layer-cacb4ed4fe45) | 當五個手動步驟被 AI 收斂成一次委託，消失的不是工作本身，而是那些原本協調這五步的隱形勞動——它掉進了一層沒有人被訓練去畫出來的地方。 |
 | 2026-08-01 | 2026-01-02 | UX 趨勢／AI 設計方向 | [10 UX Design Shifts You Can't Ignore in 2026](https://uxdesign.cc/10-ux-design-shifts-you-cant-ignore-in-2026-8f0da1c6741d) | 2026 年的 UX 設計轉變幾乎全部圍著 AI 打轉——設計師的工作正從「畫一張介面」變成「經營一整套人與 AI 代理人共同運作的系統」，可解釋性、代理人協作、無障礙與隱私透明，不再是加分項，而是基本門檻。 |
+| 2026-08-02 | 2026-03-17 | AI／UX 顧問服務 | [What UX Consulting Clients Expect in the Age of AI](https://www.nngroup.com/articles/ux-consulting-ai/) | 客戶找 UX 顧問的理由，並沒有因為 AI 而改變——他們要的不是 AI 概念展示，而是一個能在真實限制裡做出判斷的人。 |
