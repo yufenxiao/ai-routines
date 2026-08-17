@@ -80,3 +80,4 @@
 | 2026-08-14 | 2026-01-05 | AI 趨勢／人機互動 | [What's Next for AI in 2026](https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/) | 2026 年的 AI 不是靠單一項技術突破就能講完的故事，而是同時在四條戰線推進——代理人可靠度、科學發現、情感依附、政治監管——每一條都會直接改變設計師接下來要面對的邊界。 |
 | 2026-08-15 | 2026-08-07 | UX 研究方法 | [Dogfooding vs. QA vs. User Research](https://www.nngroup.com/articles/dogfooding/) | 「自己先用用看」能抓到 bug、也能養出對使用者的同理心，但團隊對產品懂得太多，終究沒辦法代表真正的使用者，所以 dogfooding 補不了使用者研究留下的洞。 |
 | 2026-08-16 | 2026-04-28 | 設計師職涯／晉升路徑 | [Staff designers aren't about shipping the best work. That's the point.](https://uxdesign.cc/staff-designers-arent-about-shipping-the-best-work-that-s-the-point-974d7bc14f06) | 從 Senior 晉升到 Staff 設計師的關卡，考的從來不是「你做的東西夠不夠好」，而是「就算不是你親手做的，你能不能讓身邊的作品變好」。 |
+| 2026-08-17 | 2026-04-28 | AI／聊天機器人設計 | [10 Guidelines for Designing Your Site's AI Chatbots](https://www.nngroup.com/articles/ai-chatbots-design-guidelines/) | 使用者會不會依賴一個網站的 AI 聊天機器人，往往不是取決於它「夠不夠聰明」，而是取決於一連串看似瑣碎的小型設計決策。 |
