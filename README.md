@@ -8,8 +8,11 @@
 ai-routines/
 ├── CLAUDE.md                 ← 全局規範索引（routine 啟動會自動讀）
 ├── README.md                 ← 這份文件
+├── .claude/settings.json     ← Claude Code 專案設定（plugin 啟用清單）
 ├── style/                    ← 全局風格規範
 │   └── language-tone.md      ← 語言與排版
+├── tools/                    ← 工具安裝與使用說明
+│   └── firecrawl.md          ← Firecrawl 網頁擷取
 └── routines/                 ← 每個 routine 一個資料夾
     └── 01-ux-digest/
         ├── prompt.md         ← 貼到 routine UI 的 prompt
@@ -24,6 +27,12 @@ ai-routines/
 | 編號 | 名稱 | 觸發 | 用途 |
 |---|---|---|---|
 | 01 | ux-digest | 每日排程 | 抓一篇 NN/g UX 文章寫成繁體中文導讀 |
+
+## 已安裝的工具
+
+| 工具 | 用途 | 說明文件 |
+|---|---|---|
+| Firecrawl plugin | 即時網頁搜尋、頁面轉 Markdown、爬站 | [tools/firecrawl.md](tools/firecrawl.md) |
 
 ## 新增 routine 的流程
 
