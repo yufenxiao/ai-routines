@@ -87,3 +87,4 @@
 | 2026-08-21 | 2026-08 | 設計師職涯／AI | [AI adoption and the slow erosion of design idealism](https://uxdesign.cc/ai-adoption-and-the-slow-erosion-of-design-idealism-fab75761ebd6) | 設計師願不願意擁抱 AI，關鍵不是年齡或技術能力，而是「入行後，理想主義被現實磨掉了多少」。 |
 | 2026-08-22 | 2026-08 | AI／評估方法 | [One AI Output Is an Example, Not an Evaluation](https://www.nngroup.com/articles/eval-ai-output/) | AI 系統的表現沒辦法靠單一次輸出來判斷——真正站得住腳的評估，需要多組具代表性的輸入、對每個輸入重複執行多次，再用平均值與信賴區間交代表現與不確定性。 |
 | 2026-08-23 | 2026-07-20 | UX 設計思考／互動設計 | [Designing for Hesitation](https://www.uxmatters.com/mt/archives/2026/07/designing-for-hesitation.php) | 不是所有的猶豫都是壞的使用者體驗——有些操作，值得被設計成讓使用者慢下來、想清楚，而不是一路暢通無阻。 |
+| 2026-08-24 | 2026-08-18 | AI 趨勢／使用行為研究 | [We still don't know how people are really using AI](https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/) | AI 公司公布的使用者行為報告，可能只是自家篩選器決定讓你看到的那一半——獨立研究重現同一套篩選規則後發現，將近一半的真實對話，包含健康、人際關係與敏感內容，從頭到尾都沒被算進統計裡。 |
