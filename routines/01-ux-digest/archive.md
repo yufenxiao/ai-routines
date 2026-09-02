@@ -96,3 +96,4 @@
 | 2026-08-30 | 2019-10-24 | UX 原理／可用性研究 | [Durability of Usability Guidelines](https://www.nngroup.com/articles/durability-of-usability-guidelines/) | 1986 年美國空軍彙整的 60 條可用性原則，時隔多年後仍有 90% 正確——可用性的核心從來不是跟著技術潮流跑，而是奠基在幾乎不變的人類行為與心理。 |
 | 2026-08-31 | 2026-03 | 設計師職涯／AI | [The Design Engineer Symptom: What a Rising Job Title Reveals](https://uxdesign.cc/the-design-engineer-symptom-what-a-rising-job-title-reveals-850d5e4fd9cc) | 「Design Engineer」這個職稱之所以讓業界一頭霧水，不是因為它定義不清，而是因為它剛好卡在設計與工程的交界處——那塊地到底該由誰負責、值多少錢，市場自己都還沒想清楚。 |
 | 2026-09-01 | 2026-08 | 設計教育／設計師職涯 | [Design has outgrown the traditional designer](https://uxdesign.cc/design-has-outgrown-the-traditional-designer-adbb657aa30a) | 當雇主要的是能做研究、懂系統、談策略、顧倫理的設計師，學校教出來的卻還是只想畫畫面的「傳統設計師」，這道落差正在讓整個設計教育跟不上這個職業真正的樣子。 |
+| 2026-09-02 | 2026-08-28 | AI／UX 團隊角色 | [The Custodial Era of UX: Cleaning Up After AI](https://www.nngroup.com/articles/ai-ux-debt/) | 當 AI 讓「生出東西」的速度快到不像話，UX 的工作正從「從零開始設計」變成「決定 AI 生出來的東西哪些留、哪些砍」的清理善後工作。 |
