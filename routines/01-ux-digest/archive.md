@@ -102,3 +102,4 @@
 | 2026-09-05 | 2026-05-25 | UX 研究方法 | [Convenience vs. Probability Sampling in UX Research](https://www.nngroup.com/articles/convenience-vs-probability-sampling/) | 便利抽樣不是研究做得不夠嚴謹的藉口，而是大多數 UX 研究裡完全合理的預設做法——真正該問的不是「這樣夠不夠嚴謹」，而是「這個決策的代價夠不夠高，高到值得換成機率抽樣」。 |
 | 2026-09-06 | 2026-09 | 設計師職涯／AI | [AI took away engineering's right to say no](https://uxdesign.cc/ai-took-away-engineerings-right-to-say-no-839b9b6256f2) | AI 沒有奪走工程師的專業知識，而是終結了他們獨佔「這個可不可行」這個問題的權力——曾經讓工程師能對任何提案說「不」的那道護城河，正在被 AI 拆掉。 |
 | 2026-09-07 | 2025-12-14 | AI／對話介面／可解釋性 | [Explainable AI in Chat Interfaces](https://www.nngroup.com/articles/explainable-ai/) | Claude、ChatGPT、Copilot、Gemini 這些對話式 AI 現在都會主動「解釋自己」，但 NN/G 研究發現，這些解釋機制常常幫倒忙——尤其是聽起來像人在講話的措辭，反而讓使用者高估 AI 的能力。 |
+| 2026-09-08 | 2026-08 | UX 趨勢／設計思考 | [The Paradox of the AI Designer](https://www.uxmatters.com/mt/archives/2026/08/the-paradox-of-the-ai-designer.php) | 「UX 設計正在死去」跟「UX 設計正迎來黃金年代」這兩種說法都沒說錯，差別只在於你問的是哪一種設計師。 |
