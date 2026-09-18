@@ -112,3 +112,4 @@
 | 2026-09-15 | 2021-08-02 | UX 原理／研究方法 | [Data Is More than Numbers: Why Qualitative Data Isn't Just Opinions](https://www.nngroup.com/articles/qualitative-rigor/) | 質化 UX 研究常被貼上「樣本太小、只是幾個人的主觀意見」的標籤，但只要蒐集方式夠系統化，質化資料跟量化資料一樣站得住腳，不是軼事。 |
 | 2026-09-16 | 2026-09 | UX 設計流程／設計師職涯 | [The death of the deliverable](https://uxdesign.cc/the-death-of-the-deliverable-cbaea0123895) | AI 沒有殺死線框圖，它只是拆穿了一件事：線框圖從來就不是重點——真正在消失的，是「產出物」這整個概念本身。 |
 | 2026-09-17 | 2025-10-24 | AI／UX 設計實作 | [Good from Afar, But Far from Good: AI Prototyping in Real Design Contexts](https://www.nngroup.com/articles/ai-prototyping/) | AI 原型設計工具能照著指令生成一個「大概像樣」的畫面，但只要牽涉到設計判斷與取捨就立刻破功——你給的脈絡越具體，它做出來的東西才越可信。 |
+| 2026-09-18 | 2026-08 | UX 趨勢／設計思考 | [Is Design Thinking Still Relevant in the Age of AI?](https://uxplanet.org/is-design-thinking-still-relevant-in-the-age-of-ai-3bc8622e6c90) | Design Thinking 之所以誕生，是因為「做出一版新設計」曾經非常昂貴，貴到你必須先驗證過才敢動手；AI 把這道成本壁壘打掉之後，問題不是這套方法論過時了，而是「驗證」這件事變得比任何時候都更重要，絕對不是可以跳過的步驟。 |
