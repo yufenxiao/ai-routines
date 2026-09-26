@@ -120,3 +120,4 @@
 | 2026-09-23 | 2026-05-18 | UX 原理／介面設計 | [Designing Stable User Interfaces](https://www.uxmatters.com/mt/archives/2026/05/designing-stable-user-interfaces.php) | 介面真正該追求的「穩定」，不是畫面完全靜止不動，而是不要打破使用者已經在腦中建好的那張「心智地圖」。 |
 | 2026-09-24 | 2025-10-21 | AI 趨勢／人機互動 | [Why AI Should Be Able to "Hang Up" on You](https://www.technologyreview.com/2025/10/21/1126116/why-ai-should-be-able-to-hang-up-on-you/) | 當 AI 能無限量產出溫暖、權威、看似有幫助的文字時，讓它「有能力結束對話」本身就該被當成一項安全設計，而不是一種失禮的中斷。 |
 | 2026-09-25 | 2025-11-25 | UX 原理／認知設計 | [Minimize Cognitive Load to Maximize Usability](https://www.nngroup.com/articles/minimize-cognitive-load/) | 可用性問題往往不是介面「不好看」，而是它逼使使用者的大腦處理超出負荷的資訊——NN/G 提出 3 個具體策略，教你把這份負擔還給系統，而不是丟給使用者。 |
+| 2026-09-26 | 2026-08 | 設計師職涯／AI | [How to Become an AI Designer](https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205) | 成為 AI 原生設計師的關鍵不是學會操作新工具，而是願意放下 Figma 裡那套內化多年的舊工作流程，把「產品本身」重新當作設計的 Source of Truth。 |
