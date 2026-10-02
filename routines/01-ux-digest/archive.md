@@ -127,3 +127,4 @@
 | 2026-09-29 | 2026-08-20 | AI 趨勢／AI 倫理 | [Debates over AI consciousness are a trap](https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/) | 把 AI 說成「有意識」聽起來很哲學，其實是在幫公司卸責——擬人化的語言會讓法律從保護人，扭成保護企業。 |
 | 2026-09-30 | 2023-01 | UX 原理／成效衡量 | [CASTLE Framework for Workplace Applications UX](https://www.nngroup.com/articles/castle-framework/) | 大家熟悉的 HEART 框架是為「使用者可以選擇要不要用」的 B2C 產品設計的，但公司內部工具的使用者沒得選——CASTLE 換了一組更貼近職場軟體的六個維度，來衡量這類產品到底好不好用。 |
 | 2026-10-01 | unknown | UX 趨勢／AI 代理人 | [UX trends for 2027: beyond interface design](https://uxdesign.cc/ux-trends-2027-beyond-interface-design-23e55b1daf07) | 2027 年 UX 最重要的變化，可能不在畫面上，而是軟體開始替人做決定之後，設計師得改去定義行為、界線，以及把控制權還給人的方式。 |
+| 2026-10-02 | 2026-02 | AI／UX 使用者研究 | [How AI Literacy Shapes GenAI Use](https://www.nngroup.com/articles/ai-literacy/) | 會寫 prompt 不等於會用 AI——NN/g 發現 prompt 流暢度很快就會隨使用練出來，但「判斷 AI 輸出好壞」的能力常常跟不上，而後者才是決定你會不會被 AI 帶著走的關鍵。 |
