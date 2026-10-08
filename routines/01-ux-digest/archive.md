@@ -133,3 +133,4 @@
 | 2026-10-05 | unknown | UX 原理／心智模型 | [Mental Models and User Experience Design](https://www.nngroup.com/articles/mental-models/) | 可用性最大的難題之一，是設計師腦中那份詳細的系統模型，跟使用者腦中比較粗糙的版本之間的落差——解法不是教育使用者，而是讓系統去貼合使用者既有的想像。 |
 | 2026-10-06 | unknown | 設計師職涯／AI | [AI didn't replace designers—it promoted them](https://uxdesign.cc/ai-didnt-replace-designers-it-promoted-them-5b6d24de4e26) | AI 沒有把產品設計師趕出場，而是把他們從「交付規格的人」推到「打造產出系統的人」。 |
 | 2026-10-07 | 2026-09-18 | AI／UX 設計方法／代理人情境 | [The 3 Roles of Context for AI Agents](https://www.nngroup.com/articles/3-agent-context-roles/) | 跟 AI 代理人合作，槓桿大小取決於你餵給它的情境——NN/G 研究 Claude 重度使用者後發現，情境其實分成全域、局部、環境三種角色，而「整理情境」的重要性已經不亞於寫好 prompt。 |
+| 2026-10-08 | 2026-01-16 | 設計師職涯／UX 趨勢 | [Why the UX Job Market is changing in 2026 (and most Designers aren't ready)](https://uxplanet.org/why-the-ux-job-market-is-changing-in-2026-and-most-designers-arent-ready-df2c1073d5f2) | UX 就業市場不是沒有需求，而是雇主對模糊、需手把手帶、低槓桿的工作越來越沒耐心，招募問題從「你厲害嗎」變成「你能不能讓人放心」。 |
