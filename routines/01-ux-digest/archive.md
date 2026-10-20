@@ -151,3 +151,4 @@
 | 2026-10-19 | 2026-10-02 | AI 趨勢／人機互動 | [Don't be fooled—LLMs don't reason](https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/) | AI 把「推理過程」秀得再漂亮，也可能只是事後編出來的說明——前 AlphaGo 團隊成員 Thore Graepel 主張，要讓 AI 的結論可被信任，得靠一套能審核證據與信念修正的獨立機制，而不是再把模型做大。 |
 | 2026-10-19 | 2026-09-14 | AI 趨勢／AI 安全治理 | [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/) | 當 Anthropic、OpenAI、Google DeepMind 的掌舵者突然一起說「該踩煞車了」，真正的問題不是他們說了什麼，而是沒有人講得清楚「放慢」到底是什麼意思，以及我們該相信多少。 |
 | 2026-10-20 | 2006-12-03 | UX 原理／互動設計 | [Progressive Disclosure](https://www.nngroup.com/articles/progressive-disclosure/) | 想同時討好「要功能」和「要簡單」的使用者，最好的辦法不是二選一，而是只先亮出少數重要選項，把進階功能收進次層畫面。 |
+| 2026-10-20 | 1994 | UX 原理／可用性原則 | [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) | 十大可用性原則不是死板的規格，而是用來檢查介面的經驗法則——從狀態可見、預防錯誤到減輕記憶負擔，三十年過去依然通用。 |
