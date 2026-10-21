@@ -153,3 +153,4 @@
 | 2026-10-20 | 2006-12-03 | UX 原理／互動設計 | [Progressive Disclosure](https://www.nngroup.com/articles/progressive-disclosure/) | 想同時討好「要功能」和「要簡單」的使用者，最好的辦法不是二選一，而是只先亮出少數重要選項，把進階功能收進次層畫面。 |
 | 2026-10-20 | 1994 | UX 原理／可用性原則 | [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) | 十大可用性原則不是死板的規格，而是用來檢查介面的經驗法則——從狀態可見、預防錯誤到減輕記憶負擔，三十年過去依然通用。 |
 | 2026-10-21 | 2026-04-19 | 設計師職涯／AI 團隊組織 | [Rethinking the shape of design teams in an AI world](https://uxdesign.cc/rethinking-the-shape-of-design-teams-in-an-ai-world-82f986bf9a27) | AI 同時衝擊設計流程與傳統職級，設計團隊需要「快慢雙軌」的結構，並用一座「能力連結」讓突破性做法能規模化，同時不讓初階設計師錯過累積判斷力的養成期。 |
+| 2026-10-21 | unknown | 設計師職涯／團隊領導 | [Rethinking design leadership with swarms and flocks](https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2) | 設計團隊的領導不該像機器一樣照路線圖運轉，而是該學鳥群：靠簡單的局部規則自然協調，再搭配輪替領導、小型小組與定期「換羽」清債等輕量結構，讓團隊在計畫被打亂時依然飛得穩。 |
