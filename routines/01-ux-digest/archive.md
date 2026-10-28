@@ -162,3 +162,4 @@
 | 2026-10-25 | unknown | UX 原理／認知設計 | [Memory Recognition and Recall in User Interfaces](https://www.nngroup.com/articles/recognition-and-recall/) | 人腦「認出」一個選項，永遠比「憑空想起」一個選項輕鬆——所以介面該把選項擺在使用者眼前，而不是要他們背在腦袋裡。 |
 | 2026-10-26 | 2026-10-25 | AI／UX 設計實作 | [Nobody asked for the sparkle button](https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6) | 使用者要的不是一顆預設開啟、關不掉的 AI 閃光按鈕，而是長在工作流程裡、真的幫他完成目標的 AI——先找到使用者目標，再決定要不要用 AI。 |
 | 2026-10-27 | unknown | AI／UX 設計實作／聊天機器人 | [What Is Your Site's AI Chatbot for? Users Can't Tell](https://www.nngroup.com/articles/site-ai-chatbot/) | 網站放了 AI 聊天機器人，使用者卻看不出它跟搜尋、篩選器或 ChatGPT 有什麼不同——要讓人願意用，它得先說清楚自己能做什麼，並解決網站原有功能解決不了的問題。 |
+| 2026-10-28 | unknown | UX 趨勢／AI 產品設計 | [The Horrible State of AI-Powered Product Design in 2026](https://uxplanet.org/the-horrible-state-of-ai-powered-product-design-in-2026-e3ef607b371d) | AI 設計工具已經能把一句描述變成像樣的畫面，卻仍然不擅長設計「產品」——介面變便宜了，真正稀缺的是產品層次的判斷。 |
