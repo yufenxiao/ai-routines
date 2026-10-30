@@ -164,3 +164,4 @@
 | 2026-10-27 | unknown | AI／UX 設計實作／聊天機器人 | [What Is Your Site's AI Chatbot for? Users Can't Tell](https://www.nngroup.com/articles/site-ai-chatbot/) | 網站放了 AI 聊天機器人，使用者卻看不出它跟搜尋、篩選器或 ChatGPT 有什麼不同——要讓人願意用，它得先說清楚自己能做什麼，並解決網站原有功能解決不了的問題。 |
 | 2026-10-28 | unknown | UX 趨勢／AI 產品設計 | [The Horrible State of AI-Powered Product Design in 2026](https://uxplanet.org/the-horrible-state-of-ai-powered-product-design-in-2026-e3ef607b371d) | AI 設計工具已經能把一句描述變成像樣的畫面，卻仍然不擅長設計「產品」——介面變便宜了，真正稀缺的是產品層次的判斷。 |
 | 2026-10-29 | 2026-02-06 | AI 趨勢／人機互動 | [Moltbook was peak AI theater](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/) | 病毒式爆紅的 AI 代理人社群 Moltbook，與其說是 AI 自主社會的預告，不如說是一面鏡子，照出我們對 AI 的想像與執念，以及背後始終有人在操控的事實。 |
+| 2026-10-30 | unknown | UX 原理／研究方法 | [Formative vs. Summative Evaluations](https://www.nngroup.com/articles/formative-vs-summative-evaluations/) | 形成性與總結性評估的差別不在於質化或量化，而在於「你現在要用研究做什麼」：是邊做邊修，還是替成果打分數。 |
