@@ -167,3 +167,4 @@
 | 2026-10-30 | unknown | UX 原理／研究方法 | [Formative vs. Summative Evaluations](https://www.nngroup.com/articles/formative-vs-summative-evaluations/) | 形成性與總結性評估的差別不在於質化或量化，而在於「你現在要用研究做什麼」：是邊做邊修，還是替成果打分數。 |
 | 2026-10-31 | unknown | 設計師職涯／AI | [Did AI kill the system’s thinking skills in UX?](https://uxdesign.cc/did-ai-kill-the-systems-thinking-skills-in-ux-701f845f18d4) | 當 AI 把「快」變成唯一的品質標準，最先被擠出去的是系統思考——Kike Peña 主張 AI 該用來加速任務，而不是取代設計師對整個問題脈絡的理解。 |
 | 2026-11-01 | unknown | 設計師職涯／AI | [Product design in 2026: the beginning of a fantastic voyage?](https://uxdesign.cc/product-design-in-2026-the-beginning-of-a-fantastic-voyage-fb6866c907ac) | AI 與 vibe coding 工具正在拆掉設計師與程式碼之間的那道牆，但設計師仍保有一項優勢：AI 做出來的東西並不完美，而能看出問題、提出想法的，依然是設計師。 |
+| 2026-11-02 | 2026-10-23 | AI／UX 使用者研究／從業者調查 | [AI in UX: Work Is Faster, But Practitioners Have Mixed Feelings](https://www.nngroup.com/articles/ai-in-ux-survey-26/) | AI 確實讓 UX 工作變快了，但品質、隱私與被強制導入的壓力，讓多數從業者的心情只是「勉強正面」。 |
