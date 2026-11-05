@@ -170,3 +170,4 @@
 | 2026-11-02 | 2026-10-23 | AI／UX 使用者研究／從業者調查 | [AI in UX: Work Is Faster, But Practitioners Have Mixed Feelings](https://www.nngroup.com/articles/ai-in-ux-survey-26/) | AI 確實讓 UX 工作變快了，但品質、隱私與被強制導入的壓力，讓多數從業者的心情只是「勉強正面」。 |
 | 2026-11-03 | 2026-11-02 | UX 趨勢／設計師職涯 | [Design's Favorite Lie About How Good Ideas Win](https://www.uxmatters.com/mt/archives/2026/11/designs-favorite-lie-about-how-good-ideas-win.php) | 設計師常以為好點子靠「夠好」就能贏，但這篇文章主張，點子能不能落地，往往取決於有沒有位階更高的人願意替它背書——影響力是設計師工作的一部分，不是額外的政治遊戲。 |
 | 2026-11-04 | 2026-10-29 | AI 趨勢／AI 代理人治理 | [We urgently need to monitor AI agents' actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/) | AI 代理人已進入金融、政府與醫療現場，但現有框架留不下「誰授權、做了什麼、為何這樣做」的紀錄——沒有即時監控，企業只能靠運氣與事後檢討。 |
+| 2026-11-05 | unknown | UX 原理／研究方法 | [Open-Ended vs. Closed Questions in User Research](https://www.nngroup.com/articles/open-ended-questions/) | 你怎麼問，就決定了你能挖到什麼——開放式問題負責探索、封閉式問題負責確認，把兩者放錯位置，研究的視野就會被悄悄縮窄。 |
