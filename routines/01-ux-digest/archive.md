@@ -172,3 +172,4 @@
 | 2026-11-04 | 2026-10-29 | AI 趨勢／AI 代理人治理 | [We urgently need to monitor AI agents' actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/) | AI 代理人已進入金融、政府與醫療現場，但現有框架留不下「誰授權、做了什麼、為何這樣做」的紀錄——沒有即時監控，企業只能靠運氣與事後檢討。 |
 | 2026-11-05 | unknown | UX 原理／研究方法 | [Open-Ended vs. Closed Questions in User Research](https://www.nngroup.com/articles/open-ended-questions/) | 你怎麼問，就決定了你能挖到什麼——開放式問題負責探索、封閉式問題負責確認，把兩者放錯位置，研究的視野就會被悄悄縮窄。 |
 | 2026-11-06 | 2026-05 | 設計師職涯／AI | [AI made everyone a creator, not a designer](https://uxdesign.cc/ai-made-everyone-a-creator-not-a-designer-e28deb6e603b) | AI 民主化的是「產出」而不是「設計判斷」——當做出畫面不再是瓶頸，真正稀缺的能力變成決定什麼值得存在，並讓整套系統維持一致。 |
+| 2026-11-07 | 2026-08 | AI／UX 團隊角色 | [The Role of UX in Agentic Software Factories](https://www.nngroup.com/articles/ux-agentic-software-factories/) | 當 Google、OpenAI、Anthropic 都把 UX 畫成「躲在後台餵情境給 AI 的資料來源」，NN/g 提醒：這樣的安排漏掉了 UX 真正該扛的判斷責任。 |
